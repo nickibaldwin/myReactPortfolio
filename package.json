@@ -34,10 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nickibaldwin/myreactportfolio.git"
-  },
-  "homepage": "https://github.com/nickibaldwin/myreactportfolio#readme"
+  }
 }
